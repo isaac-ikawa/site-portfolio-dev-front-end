@@ -11,13 +11,13 @@ O projeto tem como objetivo demonstrar boas práticas em **HTML, CSS e JavaScrip
 🔗 Deploy do projeto:
 
 ```text
-https://isaac-ikawa.github.io/Site-de-Blog-Artes-Marciais/
+https://isaac-ikawa.github.io/site-portfolio-dev-front-end/
 ```
 
 🔗 Repositório no GitHub:
 
 ```text
-https://github.com/isaac-ikawa/Site-de-Blog-Artes-Marciais
+https://github.com/isaac-ikawa/site-portfolio-dev-front-end
 ```
 
 ---
