@@ -148,4 +148,5 @@ Desenvolvedor Front-end Júnior
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Sinta-se à vontade para estudar, modificar e utilizar como base para aprendizado.
+© 2025 Isaac Ikawa.  
+Todos os direitos reservados.
